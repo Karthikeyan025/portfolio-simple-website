@@ -1,1 +1,3 @@
-# portfolio-simple-website
+This project is a simple personal portfolio website developed using HTML and basic CSS. The website includes two main pages: a Home page and a Contact page. The Home page introduces basic information about me, such as my name and role, while the Contact page provides a way for visitors to get in touch.
+
+This project was created to practice core front-end web development concepts like structuring web pages with HTML, applying basic CSS styling, and linking multiple pages together. It serves as a beginner-level portfolio project and a foundation for learning more advanced web development skills in the future.
